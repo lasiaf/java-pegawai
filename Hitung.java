@@ -29,7 +29,8 @@ public class Hitung {
             System.out.printf("Output : "+b);
         }
         else{
-            System.out.printf("Tidak memenuhi syarat %.2f\n");
+            System.out.printf("Tidak memenuhi syarat %.2f\n",b);
+            System.out.println("Klik enter untuk menutup");
         }
     }
     
