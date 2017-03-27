@@ -31,6 +31,7 @@ public class Hitung {
         else{
             System.out.printf("Tidak memenuhi syarat %.2f\n",b);
             System.out.println("Klik enter untuk menutup");
+	    System.out.println("Berdalih");
         }
     }
     
